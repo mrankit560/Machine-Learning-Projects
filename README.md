@@ -12,7 +12,7 @@ It is a 6 week long hands on training on Machine Learning, they covers everythin
 
 #### Table of content.
 
-1- [Data Exploration and Preprocessing](https://github.com/mrankit560/Machine-Learning-Project/tree/main/Data%20Exploration%20and%20processing)
+1- [Data Exploration and Preprocessing](https://github.com/mrankit560/Machine-Learning-Projects/tree/main/Data%20Exploration%20and%20processing)
 
 2- [Linear Regression and Feature Engineering](https://github.com/mrankit560/Machine-learning-project/tree/main/Linear-Regression)
 
