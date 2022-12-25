@@ -12,7 +12,7 @@ It is a 6 week long hands on training on Machine Learning, they covers everythin
 
 #### Table of content.
 
-1- [Data Exploration and Preprocessing](https://github.com/Rishabh062/Machine-learning-By-Internshala/tree/main/Data%20Exploration%20and%20processing)
+1- [Data Exploration and Preprocessing](https://github.com/mrankit560/Machine-Learning-Projects/tree/main/Data%20Exploration%20and%20processing)
 
 2- [Linear Regression and Feature Engineering](https://github.com/Rishabh062/Machine-learning-By-Internshala/tree/main/Linear-Regression)
 
@@ -20,7 +20,7 @@ It is a 6 week long hands on training on Machine Learning, they covers everythin
 
 4- [Logistic Regression](https://github.com/Rishabh062/Machine-learning-By-Internshala/tree/main/Logistic-Regression)
 
-5- [Decision Tree](https://github.com/Rishabh062/Machine-learning-By-Internshala/tree/main/Decision%20Tree)
+5- [Decision Tree]https://github.com/mrankit560/Machine-Learning-Projects/tree/main/Decision%20Tree)
 
 6- [Random Forest](https://github.com/Rishabh062/Machine-learning-By-Internshala/tree/main/Random%20Forest)
 
